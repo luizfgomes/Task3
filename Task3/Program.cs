@@ -1,8 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Task3 {
     class Program {
@@ -23,6 +21,7 @@ namespace Task3 {
         public static string solution(int A, int B, int C) {
 
             string rest;
+
             if ((A>=0 && A<=100) && (B>= 0 && B<= 100) && (C >= 0 && C <= 100)) {
 
                 CalcTheMostValue calcTheMostValue = new CalcTheMostValue();
@@ -41,6 +40,7 @@ namespace Task3 {
     }
 
     class ImportantValues {
+
         public int value { get; set; }
         public string letters { get; set; }
     }
