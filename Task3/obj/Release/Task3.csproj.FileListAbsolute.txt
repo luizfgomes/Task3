@@ -1,0 +1,6 @@
+C:\Users\luizf\source\repos\Task3\Task3\bin\Release\Task3.exe.config
+C:\Users\luizf\source\repos\Task3\Task3\bin\Release\Task3.exe
+C:\Users\luizf\source\repos\Task3\Task3\bin\Release\Task3.pdb
+C:\Users\luizf\source\repos\Task3\Task3\obj\Release\Task3.csproj.CoreCompileInputs.cache
+C:\Users\luizf\source\repos\Task3\Task3\obj\Release\Task3.exe
+C:\Users\luizf\source\repos\Task3\Task3\obj\Release\Task3.pdb
